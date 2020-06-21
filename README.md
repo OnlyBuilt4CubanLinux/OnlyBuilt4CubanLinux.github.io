@@ -1,3 +1,10 @@
+Data Analysis Projects
+======================
+
+## Welcome
+
+This is the personal Github page of **Michael Letheby**. Below you'll find links to a number of personal data analysis related projects I've worked on. This page was intended to make it easier to view my projects for viewers unfamiliar with Github repositories so don't expect anything flashy.
+
 ## About Me
 
 I'm a finance-professional based in Sydney, Australia with an interest in data analysis and predictive modelling. I started this page in order to share projects I've been working on in order to capture my own learnings and help data professionals (both present and future).
@@ -24,3 +31,12 @@ Each of the project pages contain links to the GitHub repos that house the raw c
 ## Contact Me
 
 If you'd like to get in touch please contact me at my [LinkedIn](https://www.linkedin.com/in/letheby/). Please include a message as I won't accept a blank invite from someone I don't know.
+
+## Learners
+
+If you are new to data analysis/ science I highly recommend the below resources which all helped me immeasurably.
+
+* **[Learn to code in R]**(https://r4ds.had.co.nz/introduction.html)
+* **[Applied predictive modelling]**(http://appliedpredictivemodeling.com/)
+* **[Using RMarkdown]**(https://www.kaggle.com/)
+* **[Data problems to apply skills on]**(https://bookdown.org/yihui/rmarkdown/)
