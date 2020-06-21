@@ -1,6 +1,3 @@
-Data Analysis Projects
-======================
-
 ## Welcome
 
 This is the personal Github page of **Michael Letheby**. Below you'll find links to a number of personal data analysis related projects I've worked on. This page was intended to make it easier to view my projects for viewers unfamiliar with Github repositories so don't expect anything flashy.
