@@ -1,16 +1,14 @@
 ## About Me
 
-Welcome to the personal Github page of **Michael Letheby**.
-
 I'm a finance-professional based in Sydney, Australia with an interest in data analysis and predictive modelling. I started this page in order to share projects I've been working on in order to capture my own learnings and help data professionals (both present and future).
 
 I have experience using a number of tools and languages including:
 
-* R
-* SAS
-* Excel (VBA)
-* Tableau
-* Alteryx
+* **R**
+* **SAS**
+* **Excel (VBA)**
+* **Tableau**
+* **Alteryx**
 
 At the time of writing my workflow of choice is **R** (data analysis and modelling), **R Markdown** (data presentation), **Atom** (maintaining this Github page) and **Github** (version control repository). My next goal is integrating Python into my skillset.
 
