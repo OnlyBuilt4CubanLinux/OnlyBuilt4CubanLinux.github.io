@@ -1,6 +1,8 @@
-## Welcome
+## About This Page
 
-This is the personal Github page of **Michael Letheby**. Below you'll find links to a number of personal data analysis related projects I've worked on. This page was intended to make it easier to view my projects for viewers unfamiliar with Github repositories so don't expect anything flashy.
+This is the personal Github page for **Michael Letheby**. Below you'll find links to a number of personal data analysis related projects I've worked on. I'll mainly be taking on projects that I find personally interesting or that can teach me new skills (hopefully both in most cases).
+
+This page is only intended as a centralised source for my personal projects so don't expect to see any musings or personal thoughts. Even so as a general disclaimer any work or commentary within this webpage is my personal opinion and does not reflect that of my employers.
 
 ## About Me
 
@@ -33,7 +35,7 @@ If you'd like to get in touch please contact me at my [LinkedIn](https://www.lin
 
 If you are new to data analysis/ science I highly recommend the below resources which all helped me immeasurably.
 
-* **[Learn to code in R]**(https://r4ds.had.co.nz/introduction.html)
-* **[Applied predictive modelling]**(http://appliedpredictivemodeling.com/)
-* **[Using RMarkdown]**(https://www.kaggle.com/)
-* **[Data problems to apply skills on]**(https://bookdown.org/yihui/rmarkdown/)
+* **[Learn to code in R]**(https://r4ds.had.co.nz/introduction.html): A comprehensive source to R with a focus on  data analysis and modelling that is perfect for those unfamiliar with the language.
+* **[Applied predictive modelling]**(http://appliedpredictivemodeling.com/): A great resource on the theory and application of predictive modelling. It is based on the caret package in R but its principles should be useful to all professionals.
+* **[Using R Markdown]**(https://bookdown.org/yihui/rmarkdown/): An essential tool for R users who plan to ever present their work (or handover work to teammates). No more tedious back-and-forth between your analysis and your presentation.
+* **[Data problems to apply skills on]**(https://www.kaggle.com/): Contains a large number of datasets and (more importantly) discussions on solving various data science problems.
