@@ -23,7 +23,7 @@ At the time of writing my workflow of choice is **R** (data analysis and modelli
 Below you'll find a list of personal projects I've worked on:
 
 * [Who will Survive the Titanic?](/docs/Titanic_Machine_Learning.html): A classic Kaggle problem where I aim to predict which passengers on the fateful voyage of the Titanic would survive. This is a **supervised classification problem** and a great starting point for developing **predictive models**.
-* [US Baby Names 1880-2018](/docs/Titanic_Machine_Learning_v3.html): An **exploratory data analysis** of baby names registered in the United States of America between 1880-2018. I found this dataset online myself with an aim to investigate how name trends change over time.
+* [US Baby Names 1880-2018](/docs/US_Baby_Names.html): An **exploratory data analysis** of baby names registered in the United States of America between 1880-2018. I found this dataset online myself with an aim to investigate how name trends change over time.
 
 Each of the project pages contain links to the GitHub repos that house the raw code and data used to perform the analysis. I may periodically return to past projects as I learn new skills in order to polish them further.
 
