@@ -1,7 +1,3 @@
----
-title: Personal Projects in Data Analytics
----
-
 ## About This Page
 
 This is the Github page for **Michael Letheby**. Below you'll find links to a number of data analysis related projects I've worked on. I'll mainly be taking on **projects** that I find **personally interesting** or that can **teach me new skills** (hopefully both in most cases).
